@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   <h2 align="center">GitHub Stats</h2>
   <div align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
-      <img alt="Henrique Gandra GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=progfay&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+      <img alt="Henrique Gandra GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
     </a>
   </div>
   <div align="center">
