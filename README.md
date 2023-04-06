@@ -12,16 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22u22uqaxx4qczk2jq56m4vcq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22u22uqaxx4qczk2jq56m4vcq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=031d59&bar_color_cover=true)]]
 
-<div style="display:flex; width:100%; text-align:center;">
-    <div>
-        <h2 style="width:100%;">⚡ My GitHub</h2>
-    </div>
-    <div>
-        
-    </div>
-</div>
+<section>
+  <h2 align="center">GitHub Stats</h2>
+  <div align="center">
+    <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+      <img alt="Henrique Gandra GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=progfay&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+    </a>
+  </div>
+  <div align="center">
+    <p data-sourcepos="25:1-25:337" dir="auto">
+        <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
+            <img src="https://camo.githubusercontent.com/624b637421ca29123cb2e6bd9f946737c3b1f30f52f1b4cc72cf6a4e2f61e499/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d323275323275716178783471637a6b326a7135366d3476637126636f7665725f696d6167653d74727565267468656d653d6e6f7661746f72656d2673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d74727565266261725f636f6c6f723d333662346334266261725f636f6c6f725f636f7665723d66616c7365" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=36b4c4&amp;bar_color_cover=false" style="max-width: 100%;">
+        </a>
+      </p>
+  </div>
+</section>
 
   <br>
 
