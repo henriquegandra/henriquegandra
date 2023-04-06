@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <h2 style="width:100%; text-align:center;">GitHub Stats</h2>
+<div style="width:100%; text-align:center;">
+    <h2 style="width:100%;">GitHub Stats</h2>
+</div>
 
   <br>
 
