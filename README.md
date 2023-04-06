@@ -12,14 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22u22uqaxx4qczk2jq56m4vcq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22u22uqaxx4qczk2jq56m4vcq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=031d59&bar_color_cover=true)]]
 
 <div style="display:flex; width:100%; text-align:center;">
     <div>
         <h2 style="width:100%;">⚡ My GitHub</h2>
     </div>
     <div>
-        [[https://spotify-github-profile.vercel.app/api/view.svg?uid=22u22uqaxx4qczk2jq56m4vcq&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22u22uqaxx4qczk2jq56m4vcq&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=031d59&bar_color_cover=true)]]
+        
     </div>
 </div>
 
