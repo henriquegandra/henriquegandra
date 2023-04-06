@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-
+  <br>
+  <br>
 
   <h3>👨‍💻 Linguagens</h3>
 
@@ -34,7 +35,8 @@ Here are some ideas to get you started:
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-
+  <br>
+  <br>
 
    <h3>🧰 Frameworks / Bibliotecas</h3>
        <a href="#"><img alt=".ENV" src="https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label="></a>
@@ -74,7 +76,8 @@ Here are some ideas to get you started:
        <a href="#"><img alt="WordPress" src="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label="></a>
 
-
+  <br>
+  <br>
 
   <h3>🗄️ Databases / Cloud Hosting</h3>
 
@@ -86,7 +89,8 @@ Here are some ideas to get you started:
       <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
-
+  <br>
+  <br>
 
   <h3>🧰 Operational Systems</h3>
   
@@ -98,7 +102,8 @@ Here are some ideas to get you started:
        <a href="#"><img alt="Windows" src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label="></a>
   </p>
   
-  
+  <br>
+  <br>
   
 <details> 
   <summary><h2>🛠️ Tools</h2></summary>
