@@ -33,7 +33,6 @@ Here are some ideas to get you started:
   </p>
 
   <h3>🧰 Frameworks / Bibliotecas</h3>
-      https://github.com/progfay/shields-with-icon/blob/master/Snippets.md#
       ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
       ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
       ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
