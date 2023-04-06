@@ -13,13 +13,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<section>
+<section style="display:flex;">
   <h2 align="center">GitHub Stats</h2>
   <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
-      <img alt="Henrique Gandra GitHub Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=dracula">
+    <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
+      <img alt="Henrique Gandra GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
     </a>
+    &emsp;&emsp;&emsp;
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" style="max-width: 100%;"></a>
   </div>
+  <h2 align="center">Lets Rock</h2>
   <div align="center">
     <p data-sourcepos="25:1-25:337" dir="auto">
         <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
