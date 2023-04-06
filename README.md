@@ -77,7 +77,22 @@ Here are some ideas to get you started:
   <br>
   <br>
 
+  <h3>🗄️ Banco de Dados</h3>
+
+  <p>
+      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+      <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <br>
+  <br>
+
    <h3>🧰 Frameworks e Bibliotecas</h3>
+   
+   <p>
        <a href="#"><img alt=".ENV" src="https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label="></a>
        <a href="#"><img alt="Apache" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Apache Maven" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label="></a>
@@ -114,19 +129,6 @@ Here are some ideas to get you started:
        <a href="#"><img alt="WooCommerce" src="https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=96588A&logo=WooCommerce&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="WordPress" src="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label="></a>
-
-  <br>
-  <br>
-  <br>
-
-  <h3>🗄️ Banco de Dados</h3>
-
-  <p>
-      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
-      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
   <br>
