@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   <h2 style="width:100%;">GitHub Stats</h2>
-  <hr>
-  <div style="display:flex; flex-direction:column; justify-content:center; width:100%;">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquegandra&show_icons=true&theme=tokyonight)
-  </div>
-  <div style="display:flex; flex-direction:column; justify-content:center; width:100%;">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-  </div>
 
   <br>
   <br>
