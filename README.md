@@ -119,7 +119,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-  <h3>🗄️ Banco de Dados | Soluções Cloud 🚀</h3>
+  <h3>🗄️ Banco de Dados</h3>
 
   <p>
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -127,6 +127,14 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <br>
+  <br>
+  
+  <h3>🚀 Soluções Cloud</h3>
+  
+  <p>
       <a href="#"><img alt="Amazon API Gateway" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+API+Gateway&color=FF4F8B&logo=Amazon+API+Gateway&logoColor=FFFFFF&label="></a>
       <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label="></a>
       <a href="#"><img alt="Amazon DynamoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label="></a>
