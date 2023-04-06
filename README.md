@@ -70,16 +70,6 @@ Here are some ideas to get you started:
        <a href="#"><img alt="WordPress" src="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Yarn" src="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label="></a>
 
-  <h3>🧰 Operational Systems</h3>
-  
-  <p>
-       <a href="#"><img alt="CentOS" src="https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label="></a>
-       <a href="#"><img alt="Debian" src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label="></a>
-       <a href="#"><img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label="></a>
-       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label="></a>
-       <a href="#"><img alt="Windows" src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label="></a>
-  </p>
-
   <h3>🗄️ Databases / Cloud Hosting</h3>
 
   <p>
@@ -88,6 +78,16 @@ Here are some ideas to get you started:
       <a href="#"><img alt="Oracle" src="https://img.shields.io/badge/Oracle-F00000.svg?logo=oracle&logoColor=white"></a>
       <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="#"><img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <h3>🧰 Operational Systems</h3>
+  
+  <p>
+       <a href="#"><img alt="CentOS" src="https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label="></a>
+       <a href="#"><img alt="Debian" src="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label="></a>
+       <a href="#"><img alt="Linux" src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label="></a>
+       <a href="#"><img alt="Ubuntu" src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label="></a>
+       <a href="#"><img alt="Windows" src="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label="></a>
   </p>
   
 <details> 
