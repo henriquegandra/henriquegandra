@@ -32,52 +32,52 @@ Here are some ideas to get you started:
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AtypeScript"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
   </p>
 
-  <h3>🧰 Frameworks / Bibliotecas</h3>
-      ![.ENV](https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=)
-      ![Apache](https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=)
-      ![Apache Maven](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=)
-      ![Apache Tomcat](https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=)
-      ![Bootstrap](https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=)
-      ![Electron](https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=)
-      ![Elementor](https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=)
-      ![ESLint](https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=)
-      ![Express](https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=)
-      ![Font Awesome](https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=)
-      ![GraphQL](https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=)
-      ![Hibernate](https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=)
-      ![jQuery](https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=)
-      ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
-      ![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
-      ![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
-      ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
-      ![Next.js](https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=)
-      ![Node-RED](https://img.shields.io/static/v1?style=for-the-badge&message=Node-RED&color=8F0000&logo=Node-RED&logoColor=FFFFFF&label=)
-      ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
-      ![Nodemon](https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=)
-      ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
-      ![OpenSSL](https://img.shields.io/static/v1?style=for-the-badge&message=OpenSSL&color=721412&logo=OpenSSL&logoColor=FFFFFF&label=)
-      ![PWA](https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=)
-      ![Quasar](https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=FFFFFF&label=)
-      ![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=)
-      ![Rust](https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=)
-      ![Selenium](https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=)
-      ![Socket.io](https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=)
-      ![Spring Boot](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=)
-      ![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=)
-      ![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=)
-      ![Webpack](https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=)
-      ![WooCommerce](https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=96588A&logo=WooCommerce&logoColor=FFFFFF&label=)
-      ![WordPress](https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=)
-      ![Yarn](https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=)
+   <h3>🧰 Frameworks / Bibliotecas</h3>
+       <a href="#"><img alt=".ENV" src ="https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label=></a>
+       <a href="#"><img alt="Apache" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Apache Maven" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Apache Tomcat" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Tomcat&color=222222&logo=Apache+Tomcat&logoColor=F8DC75&label=></a>
+       <a href="#"><img alt="Bootstrap" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Bootstrap&color=7952B3&logo=Bootstrap&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Electron" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Electron&color=47848F&logo=Electron&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Elementor" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Elementor&color=92003B&logo=Elementor&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="ESLint" src ="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Express" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Font Awesome" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="GraphQL" src ="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Hibernate" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="jQuery" src ="https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="JSON" src ="https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="JSON Web Tokens" src ="https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Jupyter" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="MariaDB" src ="https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Next.js" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Node-RED" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Node-RED&color=8F0000&logo=Node-RED&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Node.js" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Nodemon" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Nodemon&color=222222&logo=Nodemon&logoColor=76D04B&label=></a>
+       <a href="#"><img alt="npm" src ="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="OpenSSL" src ="https://img.shields.io/static/v1?style=for-the-badge&message=OpenSSL&color=721412&logo=OpenSSL&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="PWA" src ="https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Quasar" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="React" src ="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label=></a>
+       <a href="#"><img alt="Rust" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Selenium" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Socket.io" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Spring Boot" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Vue.js" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label=></a>
+       <a href="#"><img alt="Vuetify" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Webpack" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Webpack&color=222222&logo=Webpack&logoColor=8DD6F9&label=></a>
+       <a href="#"><img alt="WooCommerce" src ="https://img.shields.io/static/v1?style=for-the-badge&message=WooCommerce&color=96588A&logo=WooCommerce&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="WordPress" src ="https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Yarn" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Yarn&color=2C8EBB&logo=Yarn&logoColor=FFFFFF&label=></a>
 
   <h3>🧰 Operational Systems</h3>
   
   <p>
-      ![CentOS](https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label=)
-      ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=)
-      ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
-      ![Ubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=)
-      ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=)
+       <a href="#"><img alt="CentOS" src ="https://img.shields.io/static/v1?style=for-the-badge&message=CentOS&color=262577&logo=CentOS&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Debian" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Linux" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=></a>
+       <a href="#"><img alt="Ubuntu" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Windows" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D6&logo=Windows&logoColor=FFFFFF&label=></a>
   </p>
 
   <h3>🗄️ Databases / Cloud Hosting</h3>
@@ -97,47 +97,47 @@ Here are some ideas to get you started:
   <h3>💻 Software / Ferramentas</h3>
 
   <p>
-      ![Adobe Illustrator](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=)
-      ![Adobe Photoshop](https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=)
-      ![Amazon](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=)
-      ![Amazon Alexa](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Alexa&color=222222&logo=Amazon+Alexa&logoColor=00CAFF&label=)
-      ![Amazon API Gateway](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+API+Gateway&color=FF4F8B&logo=Amazon+API+Gateway&logoColor=FFFFFF&label=)
-      ![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
-      ![Amazon DynamoDB](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=)
-      ![Amazon EC2](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=)
-      ![Amazon RDS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=)
-      ![Amazon S3](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=)
-      ![Android Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=)
-      ![CodePen](https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=)
-      ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
-      ![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)
-      ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-      ![Git Extensions](https://img.shields.io/static/v1?style=for-the-badge&message=Git+Extensions&color=212121&logo=Git+Extensions&logoColor=FFFFFF&label=)
-      ![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=)
-      ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-      ![Google Sheets](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Sheets&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label=)
-      ![GoToMeeting](https://img.shields.io/static/v1?style=for-the-badge&message=GoToMeeting&color=222222&logo=GoToMeeting&logoColor=F68D2E&label=)
-      ![Grafana](https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=)
-      ![IBM Watson](https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=)
-      ![Microsoft Azure](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=)
-      ![Microsoft Exchange](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Exchange&color=0078D4&logo=Microsoft+Exchange&logoColor=FFFFFF&label=)
-      ![Microsoft Office](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=)
-      ![Microsoft SharePoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SharePoint&color=0078D4&logo=Microsoft+SharePoint&logoColor=FFFFFF&label=)
-      ![Miro](https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=)
-      ![Nextcloud](https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=)
-      ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
-      ![Pinterest](https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=BD081C&logo=Pinterest&logoColor=FFFFFF&label=)
-      ![Postman](https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=)
-      ![Power Apps](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=)
-      ![Power Automate](https://img.shields.io/static/v1?style=for-the-badge&message=Power+Automate&color=0066FF&logo=Power+Automate&logoColor=FFFFFF&label=)
-      ![Power BI](https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=)
-      ![Roundcube](https://img.shields.io/static/v1?style=for-the-badge&message=Roundcube&color=222222&logo=Roundcube&logoColor=37BEFF&label=)
-      ![SonicWall](https://img.shields.io/static/v1?style=for-the-badge&message=SonicWall&color=FF791A&logo=SonicWall&logoColor=FFFFFF&label=)
-      ![Talend](https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=)
-      ![Veeam](https://img.shields.io/static/v1?style=for-the-badge&message=Veeam&color=00B336&logo=Veeam&logoColor=FFFFFF&label=)
-      ![VMware](https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=)
-      ![Visual Studio](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=)
-      ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-      ![YouTube Studio](https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Studio&color=FF0000&logo=YouTube+Studio&logoColor=FFFFFF&label=)
+       <a href="#"><img alt="Adobe Illustrator" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Illustrator&color=222222&logo=Adobe+Illustrator&logoColor=FF9A00&label=></a>
+       <a href="#"><img alt="Adobe Photoshop" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Adobe+Photoshop&color=31A8FF&logo=Adobe+Photoshop&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Amazon" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon&color=222222&logo=Amazon&logoColor=FF9900&label=></a>
+       <a href="#"><img alt="Amazon Alexa" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+Alexa&color=222222&logo=Amazon+Alexa&logoColor=00CAFF&label=></a>
+       <a href="#"><img alt="Amazon API Gateway" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+API+Gateway&color=FF4F8B&logo=Amazon+API+Gateway&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Amazon AWS" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Amazon DynamoDB" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+DynamoDB&color=4053D6&logo=Amazon+DynamoDB&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Amazon EC2" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+EC2&color=222222&logo=Amazon+EC2&logoColor=FF9900&label=></a>
+       <a href="#"><img alt="Amazon RDS" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+RDS&color=527FFF&logo=Amazon+RDS&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Amazon S3" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+S3&color=569A31&logo=Amazon+S3&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Android Studio" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Android+Studio&color=222222&logo=Android+Studio&logoColor=3DDC84&label=></a>
+       <a href="#"><img alt="CodePen" src ="https://img.shields.io/static/v1?style=for-the-badge&message=CodePen&color=000000&logo=CodePen&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="DigitalOcean" src ="https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Discord" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Git" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Git Extensions" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Git+Extensions&color=212121&logo=Git+Extensions&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Figma" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=F24E1E&logo=Figma&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="GitHub" src ="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Google Sheets" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Google+Sheets&color=34A853&logo=Google+Sheets&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="GoToMeeting" src ="https://img.shields.io/static/v1?style=for-the-badge&message=GoToMeeting&color=222222&logo=GoToMeeting&logoColor=F68D2E&label=></a>
+       <a href="#"><img alt="Grafana" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Grafana&color=F46800&logo=Grafana&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="IBM Watson" src ="https://img.shields.io/static/v1?style=for-the-badge&message=IBM+Watson&color=222222&logo=IBM+Watson&logoColor=BE95FF&label=></a>
+       <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Azure&color=0078D4&logo=Microsoft+Azure&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Microsoft Exchange" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Exchange&color=0078D4&logo=Microsoft+Exchange&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Microsoft Office" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Microsoft SharePoint" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+SharePoint&color=0078D4&logo=Microsoft+SharePoint&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Miro" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Miro&color=050038&logo=Miro&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Nextcloud" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Nextcloud&color=0082C9&logo=Nextcloud&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="OpenAI" src ="https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Pinterest" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=BD081C&logo=Pinterest&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Postman" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Power Apps" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Power+Apps&color=742774&logo=Power+Apps&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Power Automate" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Power+Automate&color=0066FF&logo=Power+Automate&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Power BI" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Power+BI&color=222222&logo=Power+BI&logoColor=F2C811&label=></a>
+       <a href="#"><img alt="Roundcube" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Roundcube&color=222222&logo=Roundcube&logoColor=37BEFF&label=></a>
+       <a href="#"><img alt="SonicWall" src ="https://img.shields.io/static/v1?style=for-the-badge&message=SonicWall&color=FF791A&logo=SonicWall&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Talend" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Veeam" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Veeam&color=00B336&logo=Veeam&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="VMware" src ="https://img.shields.io/static/v1?style=for-the-badge&message=VMware&color=607078&logo=VMware&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Visual Studio" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio&color=5C2D91&logo=Visual+Studio&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="Visual Studio Code" src ="https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=></a>
+       <a href="#"><img alt="YouTube Studio" src ="https://img.shields.io/static/v1?style=for-the-badge&message=YouTube+Studio&color=FF0000&logo=YouTube+Studio&logoColor=FFFFFF&label=></a>
   </p>
 </details>
