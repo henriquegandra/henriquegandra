@@ -13,22 +13,47 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<section style="display:flex;">
-  <h2 align="center">GitHub Stats</h2>
+<section>
+  <h2 align="center">GitHub Profile</h2><br>
   <div align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
-      <img alt="Henrique Gandra GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
-    </a>
-    &emsp;&emsp;&emsp;
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" style="max-width: 100%;"></a>
-  </div>
-  <h2 align="center">Lets Rock</h2>
-  <div align="center">
-    <p data-sourcepos="25:1-25:337" dir="auto">
-        <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
-            <img src="https://camo.githubusercontent.com/624b637421ca29123cb2e6bd9f946737c3b1f30f52f1b4cc72cf6a4e2f61e499/68747470733a2f2f73706f746966792d6769746875622d70726f66696c652e76657263656c2e6170702f6170692f766965773f7569643d323275323275716178783471637a6b326a7135366d3476637126636f7665725f696d6167653d74727565267468656d653d6e6f7661746f72656d2673686f775f6f66666c696e653d66616c7365266261636b67726f756e645f636f6c6f723d31323132313226696e7465726368616e67653d74727565266261725f636f6c6f723d333662346334266261725f636f6c6f725f636f7665723d66616c7365" alt="spotify-github-profile" data-canonical-src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=36b4c4&amp;bar_color_cover=false" style="max-width: 100%;">
-        </a>
-      </p>
+    <table border="0">
+      <thead>
+        <tr>
+          <th>
+            <h3>GitHub Status</h3>
+          </th>
+          <th>
+            <h3>Lets Rock</h3>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td align="center">
+            <a href="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical">
+            <img alt="Henrique Gandra GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=henriquegandra&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&theme=radical" height="200" style="max-width: 100%;">
+            </a>
+            <br>
+            <br>
+            <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://camo.githubusercontent.com/d7490794a2d042e6eb6a434616022fe17f075368c31740e69bf1b3cb0acb273f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&amp;layout=compact" height="170" style="max-width: 100%;"></a>
+          </td>
+          <td>
+            <p data-sourcepos="25:1-25:337" dir="auto">
+              <!--<a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
+                    <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=36b4c4&amp;bar_color_cover=false">
+                  </a>
+                  <p data-sourcepos="25:1-25:337" dir="auto">
+                    <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
+                        <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=36b4c4&amp;bar_color_cover=false">
+                    </a>
+                  </p>-->
+              <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
+                <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color=28c3d7">
+              </a>
+            </p>
+          </td>
+        </tr>
+    </table>
   </div>
 </section>
 
