@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <h2 style="width:100%;">GitHub Stats</h2>
+  <h2 style="width:100%; text-align:center;">GitHub Stats</h2>
 
-  <br>
   <br>
 
   <h3>👨‍💻 Linguagens</h3>
