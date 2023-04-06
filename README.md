@@ -77,7 +77,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-   <h3>🧰 Frameworks / Bibliotecas</h3>
+   <h3>🧰 Frameworks e Bibliotecas</h3>
        <a href="#"><img alt=".ENV" src="https://img.shields.io/static/v1?style=for-the-badge&message=.ENV&color=222222&logo=.ENV&logoColor=ECD53F&label="></a>
        <a href="#"><img alt="Apache" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Apache Maven" src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache+Maven&color=C71A36&logo=Apache+Maven&logoColor=FFFFFF&label="></a>
@@ -119,7 +119,7 @@ Here are some ideas to get you started:
   <br>
   <br>
 
-  <h3>🗄️ Banco de Dados | 🚀 Soluções Cloud</h3>
+  <h3>🗄️ Banco de Dados | Soluções Cloud 🚀</h3>
 
   <p>
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
@@ -161,7 +161,7 @@ Here are some ideas to get you started:
   <br>
   
 <details> 
-  <summary><h2>🛠️ Software | 🧰 Ferramentas</h2></summary>
+  <summary><h2>🛠️ Softwares e Ferramentas</h2></summary>
   <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
   <p>
