@@ -67,11 +67,9 @@ Here are some ideas to get you started:
       <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white">
       <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
       <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-      <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white">
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
       <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
-      <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white">
   </p>
 
   <br>
@@ -103,12 +101,10 @@ Here are some ideas to get you started:
        <a href="#"><img alt="ESLint" src="https://img.shields.io/static/v1?style=for-the-badge&message=ESLint&color=4B32C3&logo=ESLint&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Express" src="https://img.shields.io/static/v1?style=for-the-badge&message=Express&color=000000&logo=Express&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Font Awesome" src="https://img.shields.io/static/v1?style=for-the-badge&message=Font+Awesome&color=528DD7&logo=Font+Awesome&logoColor=FFFFFF&label="></a>
-       <a href="#"><img alt="GraphQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=GraphQL&color=E10098&logo=GraphQL&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Hibernate" src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&color=59666C&logo=Hibernate&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="jQuery" src="https://img.shields.io/static/v1?style=for-the-badge&message=jQuery&color=0769AD&logo=jQuery&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="JSON" src="https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="JSON Web Tokens" src="https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=000000&logo=JSON+Web+Tokens&logoColor=FFFFFF&label="></a>
-       <a href="#"><img alt="Jupyter" src="https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="MariaDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Next.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Next.js&color=000000&logo=Next.js&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Node-RED" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node-RED&color=8F0000&logo=Node-RED&logoColor=FFFFFF&label="></a>
@@ -120,7 +116,6 @@ Here are some ideas to get you started:
        <a href="#"><img alt="Quasar" src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="></a>
        <a href="#"><img alt="Rust" src="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label="></a>
-       <a href="#"><img alt="Selenium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Socket.io" src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Spring Boot" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Vue.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="></a>
@@ -194,7 +189,6 @@ Here are some ideas to get you started:
     <a href="#"><img alt="OpenAI" src="https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Pinterest" src="https://img.shields.io/static/v1?style=for-the-badge&message=Pinterest&color=BD081C&logo=Pinterest&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/static/v1?style=for-the-badge&message=Postman&color=FF6C37&logo=Postman&logoColor=FFFFFF&label="></a>
-    <a href="#"><img alt="Roundcube" src="https://img.shields.io/static/v1?style=for-the-badge&message=Roundcube&color=222222&logo=Roundcube&logoColor=37BEFF&label="></a>
     <a href="#"><img alt="SonicWall" src="https://img.shields.io/static/v1?style=for-the-badge&message=SonicWall&color=FF791A&logo=SonicWall&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Talend" src="https://img.shields.io/static/v1?style=for-the-badge&message=Talend&color=FF6D70&logo=Talend&logoColor=FFFFFF&label="></a>
     <a href="#"><img alt="Veeam" src="https://img.shields.io/static/v1?style=for-the-badge&message=Veeam&color=00B336&logo=Veeam&logoColor=FFFFFF&label="></a>
