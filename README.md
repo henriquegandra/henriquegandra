@@ -20,7 +20,7 @@
             </a>
             <br>
             <br>
-            <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=200&theme=vision-friendly-dark&hide_border=true" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=200&theme=vision-friendly-dark&hide_border=true" style="max-width: 100%;"></a>
+            <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=200&theme=radical&hide_border=true" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=200&theme=vision-friendly-dark&hide_border=true" style="max-width: 100%;"></a>
           </td>
           <td>
             <p data-sourcepos="25:1-25:337" dir="auto">
