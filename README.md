@@ -44,7 +44,7 @@
 
   <br>
 
-  <h3>👨‍💻 Linguagens</h3>
+  <h3>👨‍💻 Programação e Linguagens de Marcação</h3>
 
   <p>
       <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
@@ -54,6 +54,9 @@
       <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white">
       <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white">
       <img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white">
+  </p>
+  <p>
+    Em andamento: <a href="#"><img alt="Rust" src="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label="></a>
   </p>
 
   <br>
@@ -99,7 +102,6 @@
        <a href="#"><img alt="PWA" src="https://img.shields.io/static/v1?style=for-the-badge&message=PWA&color=5A0FC8&logo=PWA&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Quasar" src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="React" src="https://img.shields.io/static/v1?style=for-the-badge&message=React&color=222222&logo=React&logoColor=61DAFB&label="></a>
-       <a href="#"><img alt="Rust" src="https://img.shields.io/static/v1?style=for-the-badge&message=Rust&color=000000&logo=Rust&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Socket.io" src="https://img.shields.io/static/v1?style=for-the-badge&message=Socket.io&color=010101&logo=Socket.io&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Spring Boot" src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Boot&color=6DB33F&logo=Spring+Boot&logoColor=FFFFFF&label="></a>
        <a href="#"><img alt="Vue.js" src="https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=222222&logo=Vue.js&logoColor=4FC08D&label="></a>
