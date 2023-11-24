@@ -20,7 +20,7 @@
             </a>
             <br>
             <br>
-            <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://camo.githubusercontent.com/35d0a3dfda0c5dd4da1b26eccb76cfd37ef27ce30135b506d39d2aa8f64798f0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68656e726971756567616e647261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&amp;layout=compact" style="max-width: 100%;"></a>
+            <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://camo.githubusercontent.com/35d0a3dfda0c5dd4da1b26eccb76cfd37ef27ce30135b506d39d2aa8f64798f0/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d68656e726971756567616e647261266c61796f75743d636f6d70616374" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=200&theme=vision-friendly-dark&hide_border=true" style="max-width: 100%;"></a>
           </td>
           <td>
             <p data-sourcepos="25:1-25:337" dir="auto">
