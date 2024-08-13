@@ -7,9 +7,6 @@
           <th>
             <h3>GitHub Status</h3>
           </th>
-          <th>
-            <h3>Lets Rock</h3>
-          </th>
         </tr>
       </thead>
       <tbody>
@@ -21,21 +18,6 @@
             <br>
             <br>
             <a href="https://github.com/henriquegandra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquegandra&langs_count=20&layout=compact&theme=radical" alt="Top Langs" style="width: 100%;"></a>
-          </td>
-          <td>
-            <p data-sourcepos="25:1-25:337" dir="auto">
-              <!--<a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
-                    <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=36b4c4&amp;bar_color_cover=false">
-                  </a>
-                  <p data-sourcepos="25:1-25:337" dir="auto">
-                    <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
-                        <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=natemoo-re&amp;show_offline=false&amp;background_color=121212&amp;interchange=true&amp;bar_color=36b4c4&amp;bar_color_cover=false">
-                    </a>
-                  </p>-->
-              <a href="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;redirect=true" rel="nofollow">
-                <img id="example-view" src="https://spotify-github-profile.vercel.app/api/view?uid=22u22uqaxx4qczk2jq56m4vcq&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;bar_color=28c3d7">
-              </a>
-            </p>
           </td>
         </tr>
     </table>
